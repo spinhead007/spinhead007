@@ -5,8 +5,8 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando fora da area de Programação
-- 🌱 Atualmente estou aprendendo Java
+- 🔭 Atualmente estou procurando uma vaga area de Programação (estágio/junior)
+- 🌱 Atualmente estou aprendendo Python
 - 👯 Estou procurando colaborar em projetos back-and & front-and
 - 📫 Como me encontrar: spinhead007@gmail.com
 
